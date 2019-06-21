@@ -1,5 +1,8 @@
 let i = {};
+
 i.am = "a web developer";
+i.helped = "blackberry to create high quality web applications";
+
 i.know = [
   "html",
   "css",
@@ -12,11 +15,16 @@ i.know = [
   "SQL",
   "MongoDB",
   "PostgresSQL",
-  "GraphQL"
+  "git",
+  "docker"
 ];
 i.have = [
   "2 years of experience",
-  "a Canadian Master's degree in Computer Science"
+  "a Canadian Masters degree in Computer Science"
 ];
-i.helped = "Blackberry to create high quality web applications";
-i.love = ["loooong road trips", "hip hop music", "to teach people code"];
+i.love = [
+  "loooong road trips",
+  "toronto maple leafs",
+  "toronto raptors",
+  "tim hortons french vanila with half darkroast"
+];
